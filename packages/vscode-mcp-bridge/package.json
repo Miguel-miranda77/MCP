@@ -202,7 +202,7 @@
     },
     "dependencies": {
         "@vscode-mcp/vscode-mcp-ipc": "workspace:*",
-        "zod": "^4.3.6"
+        "zod": "^4.6.6"
     },
     "devDependencies": {
         "@types/glob": "^9.0.0",
@@ -210,9 +210,9 @@
         "@types/vscode": "1.102.0",
         "@vscode/test-electron": "^3.1.0",
         "@vscode/vsce": "^3.7.1",
-        "esbuild": "~0.27.3",
+        "esbuild": "~0.28.2",
         "esbuild-visualizer": "^0.7.0",
-        "glob": "^13.0.6",
+        "glob": "^14.0.2",
         "mocha": "^11.7.5",
         "ovsx": "^0.10.9",
         "rimraf": "^6.1.3"
